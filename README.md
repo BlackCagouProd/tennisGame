@@ -14,7 +14,8 @@ Après avoir atteint les 40 points, un joueur peut :
 •	Avoir un avantage ("ADVANTAGE") si les deux joueurs ont marqué au moins trois fois ET que le joueur a marqué une fois de plus que son adversaire
 •	Gagner le jeu ("WIN") s'il a marqué au moins quatre fois AVEC deux balles d'écart sur son adversaire
  
- 
+ ![image](https://user-images.githubusercontent.com/92658472/170473749-a1c1f170-6c35-4a33-9ccd-a70cb0b056c6.png)
+
  
 Implémentez une fonction computeGameState(nameP1, nameP2, wins) qui renvoie l'état actuel du jeu en fonction des points marqués.
  
